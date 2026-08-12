@@ -33,6 +33,7 @@ The program configures digital pin 7 as an output. The LED is turned ON for 1 se
 The LED successfully blinks in the Tinkercad simulation.
 
 The LED remains ON for 1 second and OFF for 1 second, and this process repeats continuously.
+![Circuit Diagram](output.png)
 
 7. Learning Outcome
 
